@@ -3,7 +3,7 @@
 
 # Texts
 - Art of Happiness
-- What buddha taught
+- What the buddha taught
 - http://www.accesstoinsight.org/
 - http://www.buddhistelibrary.org/en/index.php?lang=english
 
