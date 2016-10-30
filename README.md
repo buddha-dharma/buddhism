@@ -13,3 +13,5 @@
 - The Wright Show - http://meaningoflife.tv/programs/wrightshow
 ## Meditation
 - The Dalai Lama Speaks - Secular Meditation https://www.youtube.com/watch?v=lTLe5TFTh24
+- Alan Watts - Guided Meditation https://soundcloud.com/numbawon/alan-watts-guided-meditation
+- Tergar - Free Beginner Coures http://learning.tergar.org/course_library/intro-to-meditation/
