@@ -5,6 +5,7 @@
 - Art of Happiness
 - What the buddha taught
 - http://www.accesstoinsight.org/
+- https://suttacentral.net/
 - http://www.buddhistelibrary.org/en/index.php?lang=english
 
 # Videos
