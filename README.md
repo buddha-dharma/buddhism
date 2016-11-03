@@ -1,4 +1,5 @@
 # Buddhism
+Here are some notes on Buddhism.
 ## Teachers
 - https://www.youtube.com/user/MingyurRinpoche
 
