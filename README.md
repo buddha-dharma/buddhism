@@ -6,6 +6,10 @@ Here are some notes on Buddhism.
 ## Texts
 - Art of Happiness
 - What the buddha taught
+- Mastering the Core Teachings of the Buddha
+- The Mind Illuminated
+- Silence - Thich Nhat Hanh
+- The Joy of Living - Yongey Mingyur Rinpoche, Eric Swanson
 - http://www.accesstoinsight.org/
 - https://suttacentral.net/
 - http://www.buddhistelibrary.org/en/index.php?lang=english
