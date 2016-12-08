@@ -15,10 +15,15 @@ Here are some notes on Buddhism.
 - http://www.buddhistelibrary.org/en/index.php?lang=english
 
 ## Videos
-- [Dalai Lama Youtube channel](https://www.youtube.com/user/gyalwarinpoche)
-- [Dalai Lama Burma 2012](https://www.youtube.com/watch?v=IUEkDc_LfKQ)
 - [The Wright Show](http://meaningoflife.tv/programs/wrightshow)
 - [Thich Nhat Hanh Oprah Winfrey](https://www.youtube.com/watch?v=dG2mMU1loGk)
+
+### Dalai Lama
+- [Youtube channel](https://www.youtube.com/user/gyalwarinpoche)
+- [Burma 2012](https://www.youtube.com/watch?v=IUEkDc_LfKQ)
+- [Day 1 - The Path to Enlightenment](https://www.youtube.com/watch?v=g1KDq-qqAJA)
+
+
 
 ### Meditation
 - The Dalai Lama Speaks - Secular Meditation https://www.youtube.com/watch?v=lTLe5TFTh24
