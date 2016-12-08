@@ -23,7 +23,8 @@ Here are some notes on Buddhism.
 - [Burma 2012](https://www.youtube.com/watch?v=IUEkDc_LfKQ)
 - [Day 1 - The Path to Enlightenment](https://www.youtube.com/watch?v=g1KDq-qqAJA)
 
-
+## Mingyur Rinpoche
+- [Meditation and the Science of Human Flourishing Workshop - Part 1](https://www.youtube.com/watch?v=fjFZEBM08w4)
 
 ### Meditation
 - The Dalai Lama Speaks - Secular Meditation https://www.youtube.com/watch?v=lTLe5TFTh24
