@@ -13,6 +13,9 @@ Here are some notes on Buddhism.
 - http://www.accesstoinsight.org/
 - https://suttacentral.net/
 - http://www.buddhistelibrary.org/en/index.php?lang=english
+- Ajan Brahm
+    - The Art of Disappearing
+    - Who Ordered This Truckload of Dung?
 
 ## Videos
 - [The Wright Show](http://meaningoflife.tv/programs/wrightshow)
