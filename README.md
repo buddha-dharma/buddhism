@@ -21,6 +21,7 @@ Here are some notes on Buddhism.
 - [The Wright Show](http://meaningoflife.tv/programs/wrightshow)
 - [Thich Nhat Hanh Oprah Winfrey](https://www.youtube.com/watch?v=dG2mMU1loGk)
 - [How To Be Happy](https://www.youtube.com/watch?v=65lbt-z4yAI&t=133s)
+- [The Mindful Way - Buddhist Monks of the Forest Tradition in Thailand ](https://www.youtube.com/watch?v=Anf1yhX9VQo)
 
 ### Dalai Lama
 - [Youtube channel](https://www.youtube.com/user/gyalwarinpoche)
