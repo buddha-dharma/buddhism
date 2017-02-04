@@ -22,6 +22,7 @@ Here are some notes on Buddhism.
 - [Thich Nhat Hanh Oprah Winfrey](https://www.youtube.com/watch?v=dG2mMU1loGk)
 - [How To Be Happy](https://www.youtube.com/watch?v=65lbt-z4yAI&t=133s)
 - [The Mindful Way - Buddhist Monks of the Forest Tradition in Thailand ](https://www.youtube.com/watch?v=Anf1yhX9VQo)
+- [Anukampa Bhikkhuni Project](https://www.youtube.com/channel/UCNIW229Hx4MOF_ahakA67EA)
 
 ### Dalai Lama
 - [Youtube channel](https://www.youtube.com/user/gyalwarinpoche)
