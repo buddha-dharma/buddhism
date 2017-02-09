@@ -23,6 +23,8 @@ Here are some notes on Buddhism.
 - [How To Be Happy](https://www.youtube.com/watch?v=65lbt-z4yAI&t=133s)
 - [The Mindful Way - Buddhist Monks of the Forest Tradition in Thailand ](https://www.youtube.com/watch?v=Anf1yhX9VQo)
 - [Anukampa Bhikkhuni Project](https://www.youtube.com/channel/UCNIW229Hx4MOF_ahakA67EA)
+- [Alan Watts - The Art of Meditation](https://www.youtube.com/watch?v=EgHCwsQ1MqI)
+- [Alan Watts - How to Distinguish Reality From Illusion](https://www.youtube.com/watch?v=ikBPHOwBAtQ)
 
 ### Dalai Lama
 - [Youtube channel](https://www.youtube.com/user/gyalwarinpoche)
