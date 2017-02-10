@@ -2,6 +2,7 @@
 Here are some notes on Buddhism.
 ## Teachers
 - [Mingyur Rinpoche](https://www.youtube.com/user/MingyurRinpoche)
+- [Thubten Chodron](http://thubtenchodron.org/)
 
 ## Texts
 - Art of Happiness
@@ -28,6 +29,7 @@ Here are some notes on Buddhism.
 - [Anukampa Bhikkhuni Project](https://www.youtube.com/channel/UCNIW229Hx4MOF_ahakA67EA)
 - [Alan Watts - The Art of Meditation](https://www.youtube.com/watch?v=EgHCwsQ1MqI)
 - [Alan Watts - How to Distinguish Reality From Illusion](https://www.youtube.com/watch?v=ikBPHOwBAtQ)
+- [Sravasti Abbey](https://www.youtube.com/user/sravastiabbey/videos)
 
 ### Dalai Lama
 - [Youtube channel](https://www.youtube.com/user/gyalwarinpoche)
