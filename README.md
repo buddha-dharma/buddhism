@@ -3,6 +3,7 @@ Here are some notes on Buddhism.
 ## Teachers
 - [Mingyur Rinpoche](https://www.youtube.com/user/MingyurRinpoche)
 - [Thubten Chodron](http://thubtenchodron.org/)
+- dhammasukha.org
 
 ## Texts
 - Art of Happiness
