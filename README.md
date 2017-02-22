@@ -31,7 +31,7 @@ Here are some notes on Buddhism.
 - [Alan Watts - The Art of Meditation](https://www.youtube.com/watch?v=EgHCwsQ1MqI)
 - [Alan Watts - How to Distinguish Reality From Illusion](https://www.youtube.com/watch?v=ikBPHOwBAtQ)
 - [Sravasti Abbey](https://www.youtube.com/user/sravastiabbey/videos)
-
+- [Bhante Vimalaramsi](https://www.youtube.com/user/begintosee)
 ### Dalai Lama
 - [Youtube channel](https://www.youtube.com/user/gyalwarinpoche)
 - [Burma 2012](https://www.youtube.com/watch?v=IUEkDc_LfKQ)
