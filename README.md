@@ -18,6 +18,8 @@ Here are some notes on Buddhism.
 - Ajan Brahm
     - The Art of Disappearing
     - Who Ordered This Truckload of Dung?
+- How Things Exist - Lama Zopa Rinpoche
+- Insight Into Emptiness - Khensur Jampa Tegchok
 ## Audio
 - [https://thebuddhistcentre.com/freebuddhistaudio](https://thebuddhistcentre.com/freebuddhistaudio)
 - [http://www.audiodharma.org/](http://www.audiodharma.org/)
