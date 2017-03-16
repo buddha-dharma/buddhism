@@ -50,5 +50,7 @@ Here are some notes on Buddhism.
 - Alan Watts - Guided Meditation https://soundcloud.com/numbawon/alan-watts-guided-meditation
 - Tergar - Free Beginner Coures http://learning.tergar.org/course_library/intro-to-meditation/
 
-## Related Literature
+## Related Media
 - https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People
+- https://www.futurelearn.com/courses/mindfulness-wellbeing-performance
+- https://www.futurelearn.com/courses/the-mind-is-flat
