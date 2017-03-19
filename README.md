@@ -23,6 +23,7 @@ Here are some notes on Buddhism.
 ## Audio
 - [https://thebuddhistcentre.com/freebuddhistaudio](https://thebuddhistcentre.com/freebuddhistaudio)
 - [http://www.audiodharma.org/](http://www.audiodharma.org/)
+- [Dharmaseed.org](http://dharmaseed.org)
 
 ## Videos
 - [The Wright Show](http://meaningoflife.tv/programs/wrightshow)
