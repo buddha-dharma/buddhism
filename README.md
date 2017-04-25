@@ -35,6 +35,7 @@ Here are some notes on Buddhism.
 - [Alan Watts - How to Distinguish Reality From Illusion](https://www.youtube.com/watch?v=ikBPHOwBAtQ)
 - [Sravasti Abbey](https://www.youtube.com/user/sravastiabbey/videos)
 - [Bhante Vimalaramsi](https://www.youtube.com/user/begintosee)
+- [Ask A Monk: Criticism and Insults](https://www.youtube.com/watch?v=8wUIMgnENjw&feature=youtu.be)
 ### Dalai Lama
 - [Youtube channel](https://www.youtube.com/user/gyalwarinpoche)
 - [Burma 2012](https://www.youtube.com/watch?v=IUEkDc_LfKQ)
