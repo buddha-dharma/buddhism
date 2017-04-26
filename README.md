@@ -50,7 +50,7 @@ Here are some notes on Buddhism.
 ### Meditation
 - The Dalai Lama Speaks - Secular Meditation https://www.youtube.com/watch?v=lTLe5TFTh24
 - Alan Watts - Guided Meditation https://soundcloud.com/numbawon/alan-watts-guided-meditation
-- Tergar - Free Beginner Coures http://learning.tergar.org/course_library/intro-to-meditation/
+- Tergar - Free Beginner Courses http://learning.tergar.org/course_library/intro-to-meditation/
 
 ## Related Media
 - https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People
