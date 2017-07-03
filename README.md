@@ -36,6 +36,7 @@ Here are some notes on Buddhism.
 - [Sravasti Abbey](https://www.youtube.com/user/sravastiabbey/videos)
 - [Bhante Vimalaramsi](https://www.youtube.com/user/begintosee)
 - [Ask A Monk: Criticism and Insults](https://www.youtube.com/watch?v=8wUIMgnENjw&feature=youtu.be)
+- [Interview: Shaolin meets Society](https://www.youtube.com/watch?v=6XlLbI5y6TA)
 ### Dalai Lama
 - [Youtube channel](https://www.youtube.com/user/gyalwarinpoche)
 - [Burma 2012](https://www.youtube.com/watch?v=IUEkDc_LfKQ)
