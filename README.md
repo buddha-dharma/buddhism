@@ -6,15 +6,18 @@ Here are some notes on Buddhism.
 - dhammasukha.org
 
 ## Texts
+### Websites
+- http://www.accesstoinsight.org/
+- https://suttacentral.net/
+- http://www.buddhistelibrary.org/en/index.php?lang=english
+### Books
 - Art of Happiness
 - What the buddha taught
 - Mastering the Core Teachings of the Buddha
 - The Mind Illuminated
 - Silence - Thich Nhat Hanh
 - The Joy of Living - Yongey Mingyur Rinpoche, Eric Swanson
-- http://www.accesstoinsight.org/
-- https://suttacentral.net/
-- http://www.buddhistelibrary.org/en/index.php?lang=english
+
 - Ajan Brahm
     - The Art of Disappearing
     - Who Ordered This Truckload of Dung?
