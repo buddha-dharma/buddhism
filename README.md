@@ -26,15 +26,18 @@ Here are some notes on Buddhism.
 - [Dharmaseed.org](http://dharmaseed.org)
 
 ## Videos
+### Channels
+- [The Office of His Holiness the Dalai Lama](https://www.youtube.com/user/gyalwarinpoche)
 - [The Wright Show](http://meaningoflife.tv/programs/wrightshow)
+- [Anukampa Bhikkhuni Project](https://www.youtube.com/channel/UCNIW229Hx4MOF_ahakA67EA)
+- [Sravasti Abbey](https://www.youtube.com/user/sravastiabbey/videos)
+- [Bhante Vimalaramsi](https://www.youtube.com/user/begintosee)
+### Misc
 - [Thich Nhat Hanh Oprah Winfrey](https://www.youtube.com/watch?v=dG2mMU1loGk)
 - [How To Be Happy](https://www.youtube.com/watch?v=65lbt-z4yAI&t=133s)
 - [The Mindful Way - Buddhist Monks of the Forest Tradition in Thailand ](https://www.youtube.com/watch?v=Anf1yhX9VQo)
-- [Anukampa Bhikkhuni Project](https://www.youtube.com/channel/UCNIW229Hx4MOF_ahakA67EA)
 - [Alan Watts - The Art of Meditation](https://www.youtube.com/watch?v=EgHCwsQ1MqI)
 - [Alan Watts - How to Distinguish Reality From Illusion](https://www.youtube.com/watch?v=ikBPHOwBAtQ)
-- [Sravasti Abbey](https://www.youtube.com/user/sravastiabbey/videos)
-- [Bhante Vimalaramsi](https://www.youtube.com/user/begintosee)
 - [Ask A Monk: Criticism and Insults](https://www.youtube.com/watch?v=8wUIMgnENjw&feature=youtu.be)
 - [Interview: Shaolin meets Society](https://www.youtube.com/watch?v=6XlLbI5y6TA)
 - [Dan Harris: "10% Happier"](https://www.youtube.com/watch?v=Dt5Qv9tUObI)
