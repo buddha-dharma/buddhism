@@ -63,5 +63,5 @@ Here are some notes on Buddhism.
 ## Related Media
 - https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People
 - https://www.futurelearn.com/courses/mindfulness-wellbeing-performance
-- https://www.futurelearn.com/courses/the-mind-is-flat
+- [Futurelearn - The Mind is Flat](https://www.futurelearn.com/courses/the-mind-is-flat)
 - [The Brain with David Eagleman](https://www.youtube.com/watch?v=BvPu2kYstcg&t=2795s)
