@@ -7,8 +7,8 @@ Here are some notes on Buddhism.
 
 ## Texts
 ### Websites
-- http://www.accesstoinsight.org/
-- https://suttacentral.net/
+- [Access to Insight](http://www.accesstoinsight.org)
+- [SuttaCentral](https://suttacentral.net)
 - http://www.buddhistelibrary.org/en/index.php?lang=english
 ### Books
 - Art of Happiness
