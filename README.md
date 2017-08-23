@@ -35,6 +35,10 @@ Here are some notes on Buddhism.
 - [Anukampa Bhikkhuni Project](https://www.youtube.com/channel/UCNIW229Hx4MOF_ahakA67EA)
 - [Sravasti Abbey](https://www.youtube.com/user/sravastiabbey/videos)
 - [Bhante Vimalaramsi](https://www.youtube.com/user/begintosee)
+### Dalai Lama
+- [Youtube channel](https://www.youtube.com/user/gyalwarinpoche)
+- [Burma 2012](https://www.youtube.com/watch?v=IUEkDc_LfKQ)
+- [Day 1 - The Path to Enlightenment](https://www.youtube.com/watch?v=g1KDq-qqAJA)
 ### Misc
 - [Thich Nhat Hanh Oprah Winfrey](https://www.youtube.com/watch?v=dG2mMU1loGk)
 - [How To Be Happy](https://www.youtube.com/watch?v=65lbt-z4yAI&t=133s)
@@ -44,10 +48,6 @@ Here are some notes on Buddhism.
 - [Ask A Monk: Criticism and Insults](https://www.youtube.com/watch?v=8wUIMgnENjw&feature=youtu.be)
 - [Interview: Shaolin meets Society](https://www.youtube.com/watch?v=6XlLbI5y6TA)
 - [Dan Harris: "10% Happier"](https://www.youtube.com/watch?v=Dt5Qv9tUObI)
-### Dalai Lama
-- [Youtube channel](https://www.youtube.com/user/gyalwarinpoche)
-- [Burma 2012](https://www.youtube.com/watch?v=IUEkDc_LfKQ)
-- [Day 1 - The Path to Enlightenment](https://www.youtube.com/watch?v=g1KDq-qqAJA)
 
 ### Ajan Brahm
 - [Buddhist Society of Western Australia](https://www.youtube.com/channel/UC6M_EhnSSdTG_SXUp6IAWmQ)
