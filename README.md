@@ -39,8 +39,10 @@ Here are some notes on Buddhism.
 - [Youtube channel](https://www.youtube.com/user/gyalwarinpoche)
 - [Burma 2012](https://www.youtube.com/watch?v=IUEkDc_LfKQ)
 - [Day 1 - The Path to Enlightenment](https://www.youtube.com/watch?v=g1KDq-qqAJA)
+### Thich Nhat Hanh
+- [Uncommon Conversations: Thich Nhat Hanh and Br. David Steindl-Rast and Gratefulness](https://www.youtube.com/watch?v=AZKsOfYURtI)
+- [Thich Nhat Hanh at Oprah Winfrey](https://www.youtube.com/watch?v=dG2mMU1loGk)
 ### Misc
-- [Thich Nhat Hanh Oprah Winfrey](https://www.youtube.com/watch?v=dG2mMU1loGk)
 - [How To Be Happy](https://www.youtube.com/watch?v=65lbt-z4yAI&t=133s)
 - [The Mindful Way - Buddhist Monks of the Forest Tradition in Thailand ](https://www.youtube.com/watch?v=Anf1yhX9VQo)
 - [Alan Watts - The Art of Meditation](https://www.youtube.com/watch?v=EgHCwsQ1MqI)
