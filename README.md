@@ -1,5 +1,8 @@
 # Buddhism
 Here are some notes on Buddhism.
+## Platforms/Online Sanghas
+- [stackexchange](https://buddhism.stackexchange.com/)
+- [reddit](https://www.reddit.com/r/Buddhism/)
 ## Teachers
 - [Mingyur Rinpoche](https://www.youtube.com/user/MingyurRinpoche)
 - [Thubten Chodron](http://thubtenchodron.org/)
