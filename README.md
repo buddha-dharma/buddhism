@@ -6,7 +6,7 @@ Here are some notes on Buddhism.
 ## Teachers
 - [Mingyur Rinpoche](https://www.youtube.com/user/MingyurRinpoche)
 - [Thubten Chodron](http://thubtenchodron.org/)
-- dhammasukha.org
+- [dhammasukha](http://dhammasukha.org)
 
 ## Texts
 ### Websites
@@ -61,9 +61,9 @@ Here are some notes on Buddhism.
 - [Meditation and the Science of Human Flourishing Workshop - Part 1](https://www.youtube.com/watch?v=fjFZEBM08w4)
 
 ### Meditation
-- The Dalai Lama Speaks - Secular Meditation https://www.youtube.com/watch?v=lTLe5TFTh24
-- Alan Watts - Guided Meditation https://soundcloud.com/numbawon/alan-watts-guided-meditation
-- Tergar - Free Beginner Courses http://learning.tergar.org/course_library/intro-to-meditation/
+- [The Dalai Lama Speaks - Secular Meditation](https://www.youtube.com/watch?v=lTLe5TFTh24)
+- [Alan Watts - Guided Meditation](https://soundcloud.com/numbawon/alan-watts-guided-meditation)
+- [Tergar - Free Beginner Courses](http://learning.tergar.org/course_library/intro-to-meditation/)
 
 ## Related Media
 - https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People
