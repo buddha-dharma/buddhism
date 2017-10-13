@@ -34,6 +34,7 @@ Here are some notes on Buddhism.
 - [https://thebuddhistcentre.com/freebuddhistaudio](https://thebuddhistcentre.com/freebuddhistaudio)
 - [http://www.audiodharma.org/](http://www.audiodharma.org/)
 - [Dharmaseed.org](http://dharmaseed.org)
+- [Tibetan Buddhist Internet Radio](http://www.lamrim.com/index2.html)
 
 ## Videos
 ### Channels
