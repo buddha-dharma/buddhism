@@ -3,6 +3,7 @@
 
 # Buddhism
 Here are some notes on Buddhism.
+
 ## Platforms/Online Sanghas
 - [stackexchange](https://buddhism.stackexchange.com/)
 - [reddit](https://www.reddit.com/r/Buddhism/)
@@ -18,7 +19,7 @@ Here are some notes on Buddhism.
 - [buddhistelibrary](http://www.buddhistelibrary.org/en/index.php?lang=english)
 ### Books
 - Art of Happiness
-- What the buddha taught
+- What the buddha taught - Walpoa Rahula 
 - Mastering the Core Teachings of the Buddha
 - The Mind Illuminated
 - The Joy of Living - Yongey Mingyur Rinpoche, Eric Swanson
