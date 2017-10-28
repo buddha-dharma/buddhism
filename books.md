@@ -1,0 +1,14 @@
+# List of Books on Buddhism
+- Art of Happiness
+- What the buddha taught - Walpoa Rahula 
+- Mastering the Core Teachings of the Buddha
+- The Mind Illuminated
+- The Joy of Living - Yongey Mingyur Rinpoche, Eric Swanson
+- Thich Nhat Hanh
+    - The Heart of the Buddha's Teaching
+    - Silence
+- Ajan Brahm
+    - The Art of Disappearing
+    - Who Ordered This Truckload of Dung?
+- How Things Exist - Lama Zopa Rinpoche
+- Insight Into Emptiness - Khensur Jampa Tegchok
