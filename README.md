@@ -17,6 +17,7 @@ Here are some notes on Buddhism.
 - [Access to Insight](http://www.accesstoinsight.org)
 - [SuttaCentral](https://suttacentral.net)
 - [buddhistelibrary](http://www.buddhistelibrary.org/en/index.php?lang=english)
+- [Info on Tibetan Buddhism](https://info-buddhism.com/)
 ## Audio
 - [https://thebuddhistcentre.com/freebuddhistaudio](https://thebuddhistcentre.com/freebuddhistaudio)
 - [http://www.audiodharma.org/](http://www.audiodharma.org/)
