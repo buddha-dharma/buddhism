@@ -1,8 +1,9 @@
 # List of Books on Buddhism
-- Art of Happiness
+- Mindful Compassion - Paul Gilbert PhD
+- Art of Happiness - Dalai Lama
 - What the buddha taught - Walpoa Rahula 
-- Mastering the Core Teachings of the Buddha
-- The Mind Illuminated
+- Mastering the Core Teachings of the Buddha - Daniel Ingram
+- The Mind Illuminated - John Yates
 - The Joy of Living - Yongey Mingyur Rinpoche, Eric Swanson
 - Thich Nhat Hanh
     - The Heart of the Buddha's Teaching
