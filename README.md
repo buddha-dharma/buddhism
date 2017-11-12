@@ -11,7 +11,9 @@ Here are some notes on Buddhism.
 ## Teachers
 - [Mingyur Rinpoche](https://www.youtube.com/user/MingyurRinpoche)
 - [Thubten Chodron](http://thubtenchodron.org/)
-- [dhammasukha](http://dhammasukha.org)
+- [Bhante Vimalaramsi](http://dhammasukha.org)
+- [Thich Nhat Hanh](https://plumvillage.org/about/thich-nhat-hanh/)
+- [HH 14th Dalai Lama - Tenzin Gyatso](https://www.dalailama.com/the-dalai-lama)
 ## Texts
 ### Websites
 - [Access to Insight](http://www.accesstoinsight.org)
