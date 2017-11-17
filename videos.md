@@ -6,6 +6,7 @@
 - [Sravasti Abbey](https://www.youtube.com/user/sravastiabbey/videos)
 - [Bhante Vimalaramsi](https://www.youtube.com/user/begintosee)
 ## Dalai Lama
+- [Biography](https://www.youtube.com/watch?v=8Ys0BugswfM)
 - [Youtube channel](https://www.youtube.com/user/gyalwarinpoche)
 - [Burma 2012](https://www.youtube.com/watch?v=IUEkDc_LfKQ)
 - [Day 1 - The Path to Enlightenment](https://www.youtube.com/watch?v=g1KDq-qqAJA)
