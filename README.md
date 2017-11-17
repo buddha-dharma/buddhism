@@ -28,7 +28,7 @@ Here are some notes on Buddhism.
 - [Tibetan Buddhist Internet Radio](http://www.lamrim.com/index2.html)
 ### Meditation
 - [The Dalai Lama Speaks - Secular Meditation](https://www.youtube.com/watch?v=lTLe5TFTh24)
-- [Alan Watts - Guided Meditation](https://soundcloud.com/numbawon/alan-watts-guided-meditation)
+- [Alan Watts - Guided Meditation](https://www.youtube.com/watch?v=PxJ0N2vq2GM)
 - [Tergar - Free Beginner Courses](http://learning.tergar.org/course_library/intro-to-meditation/)
 - [Open Source Meditation Guide](http://www.starting-meditation.com/)
 #### Guided Meditation
