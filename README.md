@@ -31,7 +31,9 @@ Here are some notes on Buddhism.
 - [Alan Watts - Guided Meditation](https://soundcloud.com/numbawon/alan-watts-guided-meditation)
 - [Tergar - Free Beginner Courses](http://learning.tergar.org/course_library/intro-to-meditation/)
 - [Open Source Meditation Guide](http://www.starting-meditation.com/)
-
+#### Guided Meditation
+- [Tara Brach - Guided Meditation](https://www.tarabrach.com/guided-meditations/)
+- [Open Mind App - Free Open Source Guided Meditations](https://openmindapp.org/)
 ## Related Media
 - https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People
 - https://www.futurelearn.com/courses/mindfulness-wellbeing-performance
