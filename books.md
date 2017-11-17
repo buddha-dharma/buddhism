@@ -9,8 +9,8 @@ A book that draws from both buddhist psyhology and evolutionary psychology to ex
 ## Thich Nhat Hanh
 ### The Heart of the Buddha's Teaching
 ### Silence
-# Ajan Brahm
+## Ajan Brahm
 ### The Art of Disappearing
 ### Who Ordered This Truckload of Dung?
-# How Things Exist - Lama Zopa Rinpoche
-# Insight Into Emptiness - Khensur Jampa Tegchok
+## How Things Exist - Lama Zopa Rinpoche
+## Insight Into Emptiness - Khensur Jampa Tegchok
