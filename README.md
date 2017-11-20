@@ -22,10 +22,11 @@ Here are some notes on Buddhism.
 - [Info on Tibetan Buddhism](https://info-buddhism.com/)
 - [Refuge Recovery - A Buddhist Path to Recovering from Addiction](http://www.refugerecovery.org/)
 ## Audio
-- [https://thebuddhistcentre.com/freebuddhistaudio](https://thebuddhistcentre.com/freebuddhistaudio)
-- [http://www.audiodharma.org/](http://www.audiodharma.org/)
-- [Dharmaseed.org](http://dharmaseed.org)
+- [Free Buddhist Audio](https://thebuddhistcentre.com/freebuddhistaudio)
+- [Audio Dharma](http://www.audiodharma.org/)
+- [Dharmaseed](http://dharmaseed.org)
 - [Tibetan Buddhist Internet Radio](http://www.lamrim.com/index2.html)
+- [Urban Dharma NC](https://urbandharmancpodcast.wordpress.com)
 ### Meditation
 - [The Dalai Lama Speaks - Secular Meditation](https://www.youtube.com/watch?v=lTLe5TFTh24)
 - [Alan Watts - Guided Meditation](https://www.youtube.com/watch?v=PxJ0N2vq2GM)
