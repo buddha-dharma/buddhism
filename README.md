@@ -24,6 +24,7 @@ Here are some notes on Buddhism.
 - [Thich Nhat Hanh](https://plumvillage.org/about/thich-nhat-hanh/)
 - [HH 14th Dalai Lama - Tenzin Gyatso](https://www.dalailama.com/the-dalai-lama)
 ## Texts
+- [BDK Tripiṭaka series as free PDFs](http://www.bdkamerica.org/bdk-tripitaka-digital-downloads)
 ### Websites
 - [Access to Insight](http://www.accesstoinsight.org)
 - [SuttaCentral](https://suttacentral.net)
