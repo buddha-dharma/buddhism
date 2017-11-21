@@ -8,6 +8,15 @@ Here are some notes on Buddhism.
 ## Platforms/Online Sanghas
 - [stackexchange](https://buddhism.stackexchange.com/)
 - [reddit](https://www.reddit.com/r/Buddhism/)
+## Free Online Courses
+- [Mindfulness for Wellbeing and Performance](https://www.futurelearn.com/courses/mindfulness-wellbeing-performance)
+- [The Dalai Lama Speaks - Secular Meditation](https://www.youtube.com/watch?v=lTLe5TFTh24)
+- [Tergar - Free Beginner Courses](http://learning.tergar.org/course_library/intro-to-meditation/)
+- [Open Source Meditation Guide](http://www.starting-meditation.com/)
+### Guided Meditation
+- [Tara Brach - Guided Meditation](https://www.tarabrach.com/guided-meditations/)
+- [Open Mind App - Free Open Source Guided Meditations](https://openmindapp.org/)
+- [Alan Watts - Guided Meditation](https://www.youtube.com/watch?v=PxJ0N2vq2GM)
 ## Teachers
 - [Mingyur Rinpoche](https://www.youtube.com/user/MingyurRinpoche)
 - [Thubten Chodron](http://thubtenchodron.org/)
@@ -27,17 +36,8 @@ Here are some notes on Buddhism.
 - [Dharmaseed](http://dharmaseed.org)
 - [Tibetan Buddhist Internet Radio](http://www.lamrim.com/index2.html)
 - [Urban Dharma NC](https://urbandharmancpodcast.wordpress.com)
-### Meditation
-- [The Dalai Lama Speaks - Secular Meditation](https://www.youtube.com/watch?v=lTLe5TFTh24)
-- [Alan Watts - Guided Meditation](https://www.youtube.com/watch?v=PxJ0N2vq2GM)
-- [Tergar - Free Beginner Courses](http://learning.tergar.org/course_library/intro-to-meditation/)
-- [Open Source Meditation Guide](http://www.starting-meditation.com/)
-#### Guided Meditation
-- [Tara Brach - Guided Meditation](https://www.tarabrach.com/guided-meditations/)
-- [Open Mind App - Free Open Source Guided Meditations](https://openmindapp.org/)
 ## Related Media
 - https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People
-- https://www.futurelearn.com/courses/mindfulness-wellbeing-performance
 - [Futurelearn - The Mind is Flat](https://www.futurelearn.com/courses/the-mind-is-flat)
 - [The Brain with David Eagleman](https://www.youtube.com/watch?v=BvPu2kYstcg&t=2795s)
 - [Anil Seth - Your brain hallucinates your conscious reality](https://www.youtube.com/watch?v=lyu7v7nWzfo)
