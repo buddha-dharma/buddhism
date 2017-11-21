@@ -38,7 +38,7 @@ Here are some notes on Buddhism.
 - [Tibetan Buddhist Internet Radio](http://www.lamrim.com/index2.html)
 - [Urban Dharma NC](https://urbandharmancpodcast.wordpress.com)
 ## Related Media
-- https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People
+- [How to Win Friends and Influence People](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People)
 - [Futurelearn - The Mind is Flat](https://www.futurelearn.com/courses/the-mind-is-flat)
 - [The Brain with David Eagleman](https://www.youtube.com/watch?v=BvPu2kYstcg&t=2795s)
 - [Anil Seth - Your brain hallucinates your conscious reality](https://www.youtube.com/watch?v=lyu7v7nWzfo)
