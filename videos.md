@@ -1,4 +1,5 @@
 # List of Videos about Buddhism
+- [Meditation 101: A Beginner's Guide Animation](https://www.youtube.com/watch?v=rqoxYKtEWEc)
 ## Channels
 - [The Office of His Holiness the Dalai Lama](https://www.youtube.com/user/gyalwarinpoche)
 - [The Wright Show](http://meaningoflife.tv/programs/wrightshow)
