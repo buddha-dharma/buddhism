@@ -37,11 +37,13 @@ Here are some notes on Buddhism.
 - [Dharmaseed](http://dharmaseed.org)
 - [Tibetan Buddhist Internet Radio](http://www.lamrim.com/index2.html)
 - [Urban Dharma NC](https://urbandharmancpodcast.wordpress.com)
+## Stories
+- [Parable of the Poisened Arrow](https://en.wikipedia.org/wiki/Parable_of_the_Poisoned_Arrow)
+- [Chinese Story - A blessing in disguise](http://legacy.ymaa.com/articles/stories-proverbs/blessing-in-disguise)
 ## Related Media
 - [How to Win Friends and Influence People](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People)
 - [Futurelearn - The Mind is Flat](https://www.futurelearn.com/courses/the-mind-is-flat)
 - [The Brain with David Eagleman](https://www.youtube.com/watch?v=BvPu2kYstcg&t=2795s)
 - [Anil Seth - Your brain hallucinates your conscious reality](https://www.youtube.com/watch?v=lyu7v7nWzfo)
-- [Chinese Story - A blessing in disguise](http://legacy.ymaa.com/articles/stories-proverbs/blessing-in-disguise)
 - [Android App Meditation Assistant](https://f-droid.org/packages/sh.ftp.rocketninelabs.meditationassistant.opensource/)
 - [The Wright Show - Stoicism vs. Buddhism](https://www.youtube.com/watch?v=qcEiF6_Uevo)
