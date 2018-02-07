@@ -13,6 +13,7 @@ Here are some notes on Buddhism.
 - [The Dalai Lama Speaks - Secular Meditation](https://www.youtube.com/watch?v=lTLe5TFTh24)
 - [Tergar - Free Beginner Courses](http://learning.tergar.org/course_library/intro-to-meditation/)
 - [Open Source Meditation Guide](http://www.starting-meditation.com/)
+- [Buddhism Through Its Scriptures](https://www.edx.org/course/buddhism-through-its-scriptures)
 ### Guided Meditation
 - [Tara Brach - Guided Meditation](https://www.tarabrach.com/guided-meditations/)
 - [Open Mind App - Free Open Source Guided Meditations](https://openmindapp.org/)
