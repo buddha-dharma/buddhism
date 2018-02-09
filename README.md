@@ -32,6 +32,7 @@ Here are some notes on Buddhism.
 - [buddhistelibrary](http://www.buddhistelibrary.org/en/index.php?lang=english)
 - [Info on Tibetan Buddhism](https://info-buddhism.com/)
 - [Refuge Recovery - A Buddhist Path to Recovering from Addiction](http://www.refugerecovery.org/)
+- [Zen Habits](https://zenhabits.net/)
 ## Audio
 - [Free Buddhist Audio](https://thebuddhistcentre.com/freebuddhistaudio)
 - [Audio Dharma](http://www.audiodharma.org/)
