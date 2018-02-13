@@ -14,6 +14,7 @@ Here are some notes on Buddhism.
 - [Tergar - Free Beginner Courses](http://learning.tergar.org/course_library/intro-to-meditation/)
 - [Open Source Meditation Guide](http://www.starting-meditation.com/)
 - [Buddhism Through Its Scriptures](https://www.edx.org/course/buddhism-through-its-scriptures)
+- [The 44 Training Program: Turning Uncertainty & Discomfort into Mindful Openness](https://zenhabits.net/the-44/)
 ### Guided Meditation
 - [Tara Brach - Guided Meditation](https://www.tarabrach.com/guided-meditations/)
 - [Open Mind App - Free Open Source Guided Meditations](https://openmindapp.org/)
