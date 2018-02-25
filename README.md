@@ -5,6 +5,8 @@
 Here are some notes on Buddhism.
 - [List of Books](books.md)
 - [List of Videos](videos.md)
+## Introduction
+- [A Basic Buddhism Guide: 5 Minute Introduction](http://www.buddhanet.net/e-learning/5minbud.htm)
 ## Platforms/Online Sanghas
 - [stackexchange](https://buddhism.stackexchange.com/)
 - [reddit](https://www.reddit.com/r/Buddhism/)
