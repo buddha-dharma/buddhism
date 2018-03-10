@@ -52,3 +52,4 @@ A curated list of notes on Buddhism.
 - [Anil Seth - Your brain hallucinates your conscious reality](https://www.youtube.com/watch?v=lyu7v7nWzfo)
 - [Android App Meditation Assistant](https://f-droid.org/packages/sh.ftp.rocketninelabs.meditationassistant.opensource/)
 - [The Wright Show - Stoicism vs. Buddhism](https://www.youtube.com/watch?v=qcEiF6_Uevo)
+- [Minimalistic Meditation Timer for the command line](https://pypi.org/project/meditate)
