@@ -11,6 +11,7 @@ A curated list of notes on Buddhism.
 - [stackexchange](https://buddhism.stackexchange.com/)
 - [reddit](https://www.reddit.com/r/Buddhism/)
 ## Free Online Courses
+- [Study Buddhism](https://studybuddhism.com/)
 - [Mindfulness for Wellbeing and Performance](https://www.futurelearn.com/courses/mindfulness-wellbeing-performance)
 - [The Dalai Lama Speaks - Secular Meditation](https://www.youtube.com/watch?v=lTLe5TFTh24)
 - [Tergar - Free Beginner Courses](http://learning.tergar.org/course_library/intro-to-meditation/)
