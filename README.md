@@ -30,6 +30,7 @@ A curated list of notes on Buddhism.
 - [HH 14th Dalai Lama - Tenzin Gyatso](https://www.dalailama.com/the-dalai-lama)
 ## Texts
 - [BDK Tripiṭaka series as free PDFs](http://www.bdkamerica.org/bdk-tripitaka-digital-downloads)
+- [The White Lotus of the Good Dharma](http://read.84000.co/translation/toh113.html)
 ### Websites
 - [Access to Insight](http://www.accesstoinsight.org)
 - [SuttaCentral](https://suttacentral.net)
