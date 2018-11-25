@@ -1,5 +1,6 @@
 # List of Videos about Buddhism
 - [Meditation 101: A Beginner's Guide Animation](https://www.youtube.com/watch?v=rqoxYKtEWEc)
+- [The Recliner Chair Meditation Method](http://www.youtube.com/watch?v=NyyWKzinkWU)
 ## Channels
 - [The Office of His Holiness the Dalai Lama](https://www.youtube.com/user/gyalwarinpoche)
 - [The Wright Show](http://meaningoflife.tv/programs/wrightshow)
