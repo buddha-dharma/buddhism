@@ -3,11 +3,18 @@
 - [The Recliner Chair Meditation Method](http://www.youtube.com/watch?v=NyyWKzinkWU)
 ## Channels
 - [The Office of His Holiness the Dalai Lama](https://www.youtube.com/user/gyalwarinpoche)
-- [OSHO INTERNATIONAL](https://www.youtube.com/user/OSHOInternational)
+
 - [The Wright Show](http://meaningoflife.tv/programs/wrightshow)
 - [Anukampa Bhikkhuni Project](https://www.youtube.com/channel/UCNIW229Hx4MOF_ahakA67EA)
 - [Sravasti Abbey](https://www.youtube.com/user/sravastiabbey/videos)
 - [Bhante Vimalaramsi](https://www.youtube.com/user/begintosee)
+## OSHO
+- [Documentary](https://archive.org/details/Guru-Bhagwan_His-Secretary-and-his-Bodyguard_Mit-deutschem-Untertitel_Zuerich_2010)
+- [Wild wild country](https://www.youtube.com/watch?v=hBLS_OM6Puk)
+- [Osho videos on Zen Masters](https://archive.org/details/OshoVideoChristianityTheDeadliestPoisonAndZenTheAntidote02)
+- [Youtube Channel](https://www.youtube.com/user/OSHOInternational)
+- [osho world](oshoworld.com)
+- [Discources in English audio download links](https://ghostbin.com/paste/rbcgj)
 ## Dalai Lama
 - [Biography](https://www.youtube.com/watch?v=8Ys0BugswfM)
 - [Youtube channel](https://www.youtube.com/user/gyalwarinpoche)
