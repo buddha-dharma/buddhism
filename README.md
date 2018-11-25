@@ -7,6 +7,8 @@ A curated list of notes on Buddhism.
 - [List of Videos](videos.md)
 ## Introduction
 - [A Basic Buddhism Guide: 5 Minute Introduction](http://www.buddhanet.net/e-learning/5minbud.htm)
+- [Meditation Handbook](http://meditation-handbook.50webs.com/meditation2.html)
+- [A list of all the ZEN masters](http://www3.telus.net/public/sarlo/Oshobob/Zen-Masters-Lineage-Chart.htm)
 ## Platforms/Online Sanghas
 - [stackexchange](https://buddhism.stackexchange.com/)
 - [reddit](https://www.reddit.com/r/Buddhism/)
@@ -23,6 +25,8 @@ A curated list of notes on Buddhism.
 - [Open Mind App - Free Open Source Guided Meditations](https://openmindapp.org/)
 - [Alan Watts - Guided Meditation](https://www.youtube.com/watch?v=PxJ0N2vq2GM)
 ## Teachers
+- [OSHO](oshoworld.com)
+- [J.krishnamurti](https://www.jkrishnamurti.org/)
 - [Mingyur Rinpoche](https://www.youtube.com/user/MingyurRinpoche)
 - [Thubten Chodron](http://thubtenchodron.org/)
 - [Bhante Vimalaramsi](http://dhammasukha.org)
