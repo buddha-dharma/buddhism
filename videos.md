@@ -13,7 +13,7 @@
 - [Wild wild country](https://www.youtube.com/watch?v=hBLS_OM6Puk)
 - [Osho videos on Zen Masters](https://archive.org/details/OshoVideoChristianityTheDeadliestPoisonAndZenTheAntidote02)
 - [Youtube Channel](https://www.youtube.com/user/OSHOInternational)
-- [osho world](www.oshoworld.com)
+- [osho world](https://www.oshoworld.com)
 - [Discources in English audio download links](https://ghostbin.com/paste/rbcgj)
 ## Dalai Lama
 - [Biography](https://www.youtube.com/watch?v=8Ys0BugswfM)
