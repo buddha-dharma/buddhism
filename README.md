@@ -1,3 +1,4 @@
+Note : Please don't misunderstood Meditation with Concentration
 [![buddha dharma chat](https://img.shields.io/badge/chat-buddha_dharma-brightgreen.svg)](https://discordapp.com/invite/Tyqd22a)
 [![meditation irc](https://img.shields.io/badge/irc-meditation-brightgreen.svg)](http://webchat.freenode.net/?channels=%23%23meditation&uio=d4)
 
