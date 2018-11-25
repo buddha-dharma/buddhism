@@ -3,6 +3,7 @@
 - [The Recliner Chair Meditation Method](http://www.youtube.com/watch?v=NyyWKzinkWU)
 ## Channels
 - [The Office of His Holiness the Dalai Lama](https://www.youtube.com/user/gyalwarinpoche)
+- [OSHO INTERNATIONAL](https://www.youtube.com/user/OSHOInternational)
 - [The Wright Show](http://meaningoflife.tv/programs/wrightshow)
 - [Anukampa Bhikkhuni Project](https://www.youtube.com/channel/UCNIW229Hx4MOF_ahakA67EA)
 - [Sravasti Abbey](https://www.youtube.com/user/sravastiabbey/videos)
