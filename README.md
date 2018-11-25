@@ -1,7 +1,6 @@
-Note : Please don't misunderstood Meditation with Concentration
 [![buddha dharma chat](https://img.shields.io/badge/chat-buddha_dharma-brightgreen.svg)](https://discordapp.com/invite/Tyqd22a)
 [![meditation irc](https://img.shields.io/badge/irc-meditation-brightgreen.svg)](http://webchat.freenode.net/?channels=%23%23meditation&uio=d4)
-
+_Note: Please do not missunderstood meditation with concentration_
 # Buddhism
 A curated list of notes on Buddhism.
 - [List of Books](books.md)
