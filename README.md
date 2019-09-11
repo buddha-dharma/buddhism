@@ -7,7 +7,7 @@ A curated list of notes on Buddhism.
 - [List of Videos](videos.md)
 ## Introduction
 - [A Basic Buddhism Guide: 5 Minute Introduction](http://www.buddhanet.net/e-learning/5minbud.htm)
-## Platforms/Online Sanghas
+## Platforms/Communities
 - [stackexchange](https://buddhism.stackexchange.com/)
 - [reddit](https://www.reddit.com/r/Buddhism/)
 ## Free Online Courses
