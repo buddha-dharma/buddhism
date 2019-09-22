@@ -21,8 +21,6 @@
 ## Misc
 - [How To Be Happy](https://www.youtube.com/watch?v=65lbt-z4yAI&t=133s)
 - [The Mindful Way - Buddhist Monks of the Forest Tradition in Thailand](https://www.youtube.com/watch?v=Anf1yhX9VQo)
-- [Alan Watts - The Art of Meditation](https://www.youtube.com/watch?v=EgHCwsQ1MqI)
-- [Alan Watts - How to Distinguish Reality From Illusion](https://www.youtube.com/watch?v=ikBPHOwBAtQ)
 - [Ask A Monk: Criticism and Insults](https://www.youtube.com/watch?v=8wUIMgnENjw&feature=youtu.be)
 - [Interview: Shaolin meets Society](https://www.youtube.com/watch?v=6XlLbI5y6TA)
 - [Dan Harris: "10% Happier"](https://www.youtube.com/watch?v=Dt5Qv9tUObI)
