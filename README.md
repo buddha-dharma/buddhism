@@ -22,6 +22,7 @@ A curated list of notes on Buddhism.
 - [Tara Brach - Guided Meditation](https://www.tarabrach.com/guided-meditations/)
 - [Open Mind App - Free Open Source Guided Meditations](https://openmindapp.org/)
 - [Alan Watts - Guided Meditation](https://www.youtube.com/watch?v=PxJ0N2vq2GM)
+- [Ajahn Brahm - Guided Metta Meditation](https://www.youtube.com/watch?v=7Jb72-QgXOc)
 ## Teachers
 - [Mingyur Rinpoche](https://www.youtube.com/user/MingyurRinpoche)
 - [Thubten Chodron](http://thubtenchodron.org/)
