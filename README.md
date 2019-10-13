@@ -19,6 +19,7 @@ A curated list of notes on Buddhism.
 - [Buddhism Through Its Scriptures](https://www.edx.org/course/buddhism-through-its-scriptures)
 - [The 44 Training Program: Turning Uncertainty & Discomfort into Mindful Openness](https://zenhabits.net/the-44/)
 - [Lojong Teachings (Mind Training) with Khenpo Sherab Sangpo](https://www.youtube.com/watch?v=8sM9-xOi8mU&list=PLaAW1H5vg2nFhEylEP9HJYNPavhkXosuo)
+- [Free Video Courses by Bodhicitta Sangha](https://www.youtube.com/user/KhenpoSherabSangpo/playlists)
 ### Guided Meditation
 - [Tara Brach - Guided Meditation](https://www.tarabrach.com/guided-meditations/)
 - [Open Mind App - Free Open Source Guided Meditations](https://openmindapp.org/)
