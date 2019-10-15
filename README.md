@@ -3,8 +3,8 @@
 
 # Buddhism
 A curated list of notes on Buddhism.
-- [List of Books](books.md)
-- [List of Videos](videos.md)
+- [List of Books](books.md) <!-- github link -->
+- [List of Videos](videos.md) <!-- github link -->
 ## Introduction
 - [A Basic Buddhism Guide: 5 Minute Introduction](http://www.buddhanet.net/e-learning/5minbud.htm)
 ## Platforms/Communities
