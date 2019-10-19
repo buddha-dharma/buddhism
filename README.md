@@ -1,8 +1,8 @@
 [![buddha dharma chat](https://img.shields.io/badge/chat-buddha_dharma-brightgreen.svg)](https://discordapp.com/invite/Tyqd22a) <!-- github link -->
 [![meditation irc](https://img.shields.io/badge/irc-meditation-brightgreen.svg)](http://webchat.freenode.net/?channels=%23%23meditation&uio=d4) <!-- github link -->
 
-# Buddhism
-A curated list of notes on Buddhism.
+# Ressources on Buddhism
+A curated list of free resources on Buddhism.
 - [List of Books](books.md) <!-- github link -->
 - [List of Videos](videos.md) <!-- github link -->
 ## Introduction
