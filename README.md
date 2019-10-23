@@ -3,8 +3,8 @@
 
 # Ressources on Buddhism
 A curated list of free resources on Buddhism.
-- [List of Books](books.md) <!-- github link -->
-- [List of Videos](videos.md) <!-- github link -->
+See [List of Books](books.md) 
+See [List of Videos](videos.md)
 ## Introduction
 - [A Basic Buddhism Guide: 5 Minute Introduction](http://www.buddhanet.net/e-learning/5minbud.htm)
 ## Platforms/Communities
@@ -48,7 +48,7 @@ A curated list of free resources on Buddhism.
 - [Tibetan Buddhist Internet Radio](http://www.lamrim.com/index2.html)
 - [Urban Dharma NC](https://urbandharmancpodcast.wordpress.com)
 ## Stories
-- [Parable of the Poisened Arrow](https://en.wikipedia.org/wiki/Parable_of_the_Poisoned_Arrow)
+- [Parable of the Poisoned Arrow](https://en.wikipedia.org/wiki/Parable_of_the_Poisoned_Arrow)
 - [Chinese Story - A blessing in disguise](http://legacy.ymaa.com/articles/stories-proverbs/blessing-in-disguise)
 ## Related Media
 - [How to Win Friends and Influence People](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People)

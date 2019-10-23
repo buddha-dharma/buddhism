@@ -18,7 +18,7 @@
 - [Buddhist Society of Western Australia](https://www.youtube.com/channel/UC6M_EhnSSdTG_SXUp6IAWmQ)
 ## Mingyur Rinpoche
 - [Meditation and the Science of Human Flourishing Workshop - Part 1](https://www.youtube.com/watch?v=fjFZEBM08w4)
-## Misc
+## Related Videos
 - [How To Be Happy](https://www.youtube.com/watch?v=65lbt-z4yAI&t=133s)
 - [The Mindful Way - Buddhist Monks of the Forest Tradition in Thailand](https://www.youtube.com/watch?v=Anf1yhX9VQo)
 - [Ask A Monk: Criticism and Insults](https://www.youtube.com/watch?v=8wUIMgnENjw&feature=youtu.be)
