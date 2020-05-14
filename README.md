@@ -19,6 +19,7 @@ See [List of Videos](videos.md)
 - [Lojong Teachings (Mind Training) with Khenpo Sherab Sangpo](https://www.youtube.com/watch?v=8sM9-xOi8mU&list=PLaAW1H5vg2nFhEylEP9HJYNPavhkXosuo)
 - [Free Video Courses by Bodhicitta Sangha](https://www.youtube.com/user/KhenpoSherabSangpo/playlists)
 - [Ringu Tulku - Bodhicharyavatara](https://bodhicharya.org/teachings/courses/bodhicharyavatara)
+- [Emptiness and the Mind Perceiving It with Dr. Jay L. Garfield](https://www.youtube.com/playlist?list=PL8DRNsjySiiYe3Ttgf5tpqDtp3NPNHkYq)
 ### Guided Meditation
 - [Tara Brach - Guided Meditation](https://www.tarabrach.com/guided-meditations/)
 - [Alan Watts - Guided Meditation](https://www.youtube.com/watch?v=PxJ0N2vq2GM)
